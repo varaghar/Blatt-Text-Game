@@ -1,0 +1,6 @@
+currhp: 10
+type: Warrior
+name: John Smith
+items:
+	Stick,1,2,10,5
+gold: 10
